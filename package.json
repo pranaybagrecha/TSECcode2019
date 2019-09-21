@@ -1,0 +1,17 @@
+{
+  "name": "hashfinder",
+  "version": "1.0.0",
+  "description": "find instagram user data and post for the specific hastag",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saahiil",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "firebase": "^6.6.2",
+    "node-fetch": "^2.6.0",
+    "socket.io": "^2.2.0"
+  }
+}
